@@ -1,0 +1,5 @@
+1) Python version 3.6.5 is used
+2) Task 1 is done and need 'ForUpload' folder in current/code directory, containing files to upload
+3) Task 2 is done and need 'ForUpload' folder in current/code directory, containing files to upload
+4) In Task 3, I used 'Flask' web framework to develop Web API and expose EndPoints for Mobile App to interact with databases. Due to time constraint I develop a Welcome HTML page to test API instead of Mobile App.
+5) SQLite is used for database
